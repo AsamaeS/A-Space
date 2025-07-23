@@ -24,7 +24,7 @@ ASpace is a frontend-only immersive workspace interface designed to foster produ
 
 ### 👩‍🎨 Created By
 
-Asmae Serji (AS) – AI enthusiast & creative front-end developer.
+Asmae Serji (AS) .
 
 ---
 
@@ -102,14 +102,9 @@ ASpace aims to build a minimalist yet intelligent frontend-only intranet desk fo
 * Figma mockups (wireframes and final design)
 * README + LICENSE (MIT)
 
-## 7. Timeline
 
-* Week 1: Ideation, Figma mockups
-* Week 2: Hero + Notes + AI Bot
-* Week 3: Wellness area + gamification
-* Week 4: Polish & prepare video demo
 
-## 8. License
+## 7. License
 
 * MIT License (see LICENSE file)
 
