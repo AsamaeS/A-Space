@@ -1,40 +1,10 @@
 # 📖 README.md – ASpace
 
-## 🌌 ASpace – Your Personal AI-Powered Intranet Desk
+## 🌌 ASpace –- Minimalist Intranet Desk for Work & Creativity
 
-ASpace is a frontend-only immersive workspace interface designed to foster productivity, well-being, and collaboration within a vibrant, interactive environment.
+ASpace is a minimalist, intelligent, frontend-only intranet desk for employees, developers, and remote teams. It blends daily work tools with a calm, motivating user interface designed to enhance productivity and team well-being.
 
-### 🚀 Core Features
-
-* 🖼️ Hero section with animated background, live weather, and local time
-* 🤖 Visual AI assistant with contextual smart suggestions
-* 🗒️ Collaborative sticky notes with drag-and-drop functionality
-* 🧠 Real-time co-editing simulation with animated avatars
-* 🧘‍♀️ Wellness zone with breathing exercises, LoFi music, and inspirational quotes
-* 🐣 Evolving Office Pet + gamified badges
-* 🎯 Daily challenges, mood tracking, and persistent user progress via localStorage
-
-### 🛠️ Tech Stack
-
-* HTML / CSS / Vanilla JavaScript
-* localStorage API
-* Drag and Drop API
-* CSS animations / SVG
-* 100% frontend (no backend required)
-
-### 👩‍🎨 Created By
-
-Asmae Serji (AS) .
-
----
-
-# 📘 Functional Specification – ASpace
-
-## 1. Project Overview
-
-ASpace aims to build a minimalist yet intelligent frontend-only intranet desk for students, developers, and creatives. It blends daily organization tools with a playful and motivating user interface.
-
-## 2. Objectives
+## 🚀 2. Objectives
 
 * Create a smart, distraction-free environment for individual or small team productivity
 * Promote mental wellness and routine tracking
@@ -62,9 +32,10 @@ ASpace aims to build a minimalist yet intelligent frontend-only intranet desk fo
 
 ### 3.4 Co-editing Simulation
 
-* Animated avatars (e.g., animated SVGs)
-* Name tags + movement on screen
+* Animated avatars with movement (e.g., animated SVGs)
+* Name tags + movement on screen  to simulate team presence
 * Simulated interaction to mimic teamwork
+* Optional keyboard/mouse ghosting for realism
 
 ### 3.5 Wellness Corner
 
@@ -74,8 +45,11 @@ ASpace aims to build a minimalist yet intelligent frontend-only intranet desk fo
 
 ### 3.6 Gamification
 
-* Evolving “Office Pet” with XP (earned by completing tasks)
-* Badge system: “Early Bird,” “Focused Flow,” “Zen Master,” etc.
+*  Virtual “Office Pet” that grows with activity
+* Earn XP and collect badges:
+  - Early Bird 🐣
+  - Focused Flow ⚡
+  - Zen Master 🧘.
 
 ### 3.7 User Dashboard
 
@@ -102,9 +76,16 @@ ASpace aims to build a minimalist yet intelligent frontend-only intranet desk fo
 * Figma mockups (wireframes and final design)
 * README + LICENSE (MIT)
 
+## 📦 Deliverables
+
+- Open-source code: `/public`
+- All assets (SVG, fonts, media)
+- MIT License
+- `/figma` folder with wireframes + UI kit
+- README (you’re reading it now 👀)
 
 
-## 7. License
+## 8. License
 
 * MIT License (see LICENSE file)
 
