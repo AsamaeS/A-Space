@@ -1,6 +1,6 @@
 # 📖 README.md – ASpace
 
-## 🌌 ASpace –- Minimalist Intranet Desk for Work & Creativity
+## 🌌 ASPACE –- Minimalist Intranet Desk for Work & Creativity
 
 ASpace is a minimalist, intelligent, frontend-only intranet desk for employees, developers, and remote teams. It blends daily work tools with a calm, motivating user interface designed to enhance productivity and team well-being.
 
